@@ -1,0 +1,30 @@
+{
+    "text": "This is a placeholder for a Whisper JSON transcript. Replace with actual output.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.0,
+            "text": "This is a sample segment.",
+            "tokens": [],
+            "temperature": 0.0,
+            "avg_logprob": -0.5,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.1
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.5,
+            "end": 10.0,
+            "text": "Another example segment with the important announcement.",
+            "tokens": [],
+            "temperature": 0.0,
+            "avg_logprob": -0.4,
+            "compression_ratio": 1.1,
+            "no_speech_prob": 0.05
+        }
+    ],
+    "language": "en"
+}

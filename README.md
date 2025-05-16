@@ -6,18 +6,6 @@ Each utility lives in its own folder with examples and a CLI-friendly interface.
 
 ---
 
-## 🚀 Why use these?
-
-Multimodal content is everywhere — but tooling is scattered. This repo brings together focused, no-dependency-heavy scripts to help you get things done without setting up complex pipelines.
-
-Ideal for:
-- Prototyping and experimentation
-- Content analysis workflows
-- ML/AI feature extraction
-- Exploring retrieval use cases
-
----
-
 ## 📂 Tools (WIP)
 
 | Tool | Description |
@@ -48,6 +36,18 @@ cd segment_transcript_by_topic
 pip install -r requirements.txt
 python segment_transcript.py --input path/to/video.mp4
 ```
+
+---
+
+## 🚀 Why use these?
+
+Multimodal content is everywhere — but tooling is scattered. This repo brings together focused, no-dependency-heavy scripts to help you get things done without setting up complex pipelines.
+
+Ideal for:
+- Prototyping and experimentation
+- Content analysis workflows
+- ML/AI feature extraction
+- Exploring retrieval use cases
 
 ---
 
