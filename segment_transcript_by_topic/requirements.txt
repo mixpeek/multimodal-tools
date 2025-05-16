@@ -1,0 +1,7 @@
+openai-whisper
+ffmpeg-python
+pydub
+sentence-transformers
+hdbscan
+numpy
+tqdm 
