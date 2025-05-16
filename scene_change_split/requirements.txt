@@ -1,0 +1,4 @@
+PySceneDetect
+numpy
+opencv-python # Often a dependency or useful with PySceneDetect
+# ffmpeg-python # PySceneDetect usually calls ffmpeg CLI, but can be useful for direct control 

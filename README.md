@@ -27,9 +27,12 @@ Ideal for:
 | [`extract_thumbnails/`](./extract_thumbnails) | Grab frames from a video every N seconds |
 | [`transcribe_audio/`](./transcribe_audio) | Transcribe audio using Whisper |
 | [`search_local_media/`](./search_local_media) | CLIP-based text search across your media folder |
-
-<!-- scene_change_split.py	Introduces users to segmentation — essential for indexing and retrieval, ties into Mixpeek pipelines.
-4️⃣	caption_search.py	Text-based video retrieval is sticky. Very relatable problem for creators + brands. -->
+| [`scene_change_split/`](./scene_change_split) | Introduces users to segmentation — essential for indexing and retrieval, ties into Mixpeek pipelines. |
+| [`caption_search/`](./caption_search) | Text-based video retrieval is sticky. Very relatable problem for creators + brands. |
+| [`generate_video_captions/`](./generate_video_captions) | Popular Whisper wrapper, easy way in. Can upsell with "hosted + searchable." |
+| [`video_shot_segmenter/`](./video_shot_segmenter) | Gets technical users thinking in terms of shots + segments. Good primer. |
+| [`summarize_transcript/`](./summarize_transcript) | Pairs well with your retrieval infra, especially if you show concept search. |
+| [`blur_faces/`](./blur_faces) | Niche use case (privacy, redaction). Could be relevant for security clients though. |
 
 ---
 
@@ -56,5 +59,6 @@ ___
 
 ## 🤝 Contributing
 Want to add a new tool or improve an existing one? PRs welcome.
+
 
 
