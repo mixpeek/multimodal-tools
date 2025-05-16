@@ -1,0 +1,2 @@
+ffmpeg-python
+numpy # Often a useful utility, and ffmpeg-python might have it as a transitive dep or it's good for math. 
