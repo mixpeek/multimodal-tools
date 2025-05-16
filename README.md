@@ -15,12 +15,12 @@ Each utility lives in its own folder with examples and a CLI-friendly interface.
 | [`extract_thumbnails/`](./extract_thumbnails) | Grab frames from a video every N seconds |
 | [`transcribe_audio/`](./transcribe_audio) | Transcribe audio using Whisper |
 | [`search_local_media/`](./search_local_media) | CLIP-based text search across your media folder |
-| [`scene_change_split/`](./scene_change_split) | Introduces users to segmentation — essential for indexing and retrieval, ties into Mixpeek pipelines. |
-| [`caption_search/`](./caption_search) | Text-based video retrieval is sticky. Very relatable problem for creators + brands. |
-| [`generate_video_captions/`](./generate_video_captions) | Popular Whisper wrapper, easy way in. Can upsell with "hosted + searchable." |
-| [`video_shot_segmenter/`](./video_shot_segmenter) | Gets technical users thinking in terms of shots + segments. Good primer. |
-| [`summarize_transcript/`](./summarize_transcript) | Pairs well with your retrieval infra, especially if you show concept search. |
-| [`blur_faces/`](./blur_faces) | Niche use case (privacy, redaction). Could be relevant for security clients though. |
+| [`scene_change_split/`](./scene_change_split) | Splits a video into separate clips based on detected scene changes. |
+| [`caption_search/`](./caption_search) | Searches for text within video captions or existing Whisper transcripts. |
+| [`generate_video_captions/`](./generate_video_captions) | Generates SRT/VTT caption files from video or audio using Whisper. |
+| [`video_shot_segmenter/`](./video_shot_segmenter) | Segments a video into individual shots based on visual changes. |
+| [`summarize_transcript/`](./summarize_transcript) | Summarizes text from a transcript file (e.g., from Whisper output). |
+| [`blur_faces/`](./blur_faces) | Detects and blurs faces in images or video frames for privacy. |
 
 ---
 
