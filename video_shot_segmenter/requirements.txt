@@ -1,0 +1,3 @@
+PySceneDetect
+numpy
+opencv-python # Often a dependency or useful with PySceneDetect 
