@@ -1,0 +1,4 @@
+transformers
+torch
+sentencepiece # Required by some models like T5
+# nltk # Potentially for advanced text pre-processing, but not essential for basic summarization with transformers 

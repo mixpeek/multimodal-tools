@@ -1,0 +1,42 @@
+{
+    "text": "This is the first part of the transcript. It discusses various introductory topics and sets the stage for the main content. The speaker introduces themselves and the agenda for the discussion. Several key points are mentioned briefly, which will be elaborated upon later. This section is crucial for understanding the context of the subsequent detailed explanations. The initial remarks cover the project's background and its objectives. We hope this summary tool can effectively condense this information.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 10.0,
+            "text": "This is the first part of the transcript. It discusses various introductory topics and sets the stage for the main content.",
+            "tokens": [],
+            "temperature": 0.0,
+            "avg_logprob": -0.5,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.1
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 10.5,
+            "end": 20.0,
+            "text": "The speaker introduces themselves and the agenda for the discussion. Several key points are mentioned briefly, which will be elaborated upon later.",
+            "tokens": [],
+            "temperature": 0.0,
+            "avg_logprob": -0.4,
+            "compression_ratio": 1.1,
+            "no_speech_prob": 0.05
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 20.5,
+            "end": 30.0,
+            "text": "This section is crucial for understanding the context of the subsequent detailed explanations. The initial remarks cover the project's background and its objectives. We hope this summary tool can effectively condense this information.",
+            "tokens": [],
+            "temperature": 0.0,
+            "avg_logprob": -0.4,
+            "compression_ratio": 1.1,
+            "no_speech_prob": 0.05
+        }
+    ],
+    "language": "en"
+}
