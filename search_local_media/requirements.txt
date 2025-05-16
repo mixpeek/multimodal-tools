@@ -1,0 +1,7 @@
+torch
+torchvision
+transformers
+Pillow
+ffmpeg-python
+numpy
+tqdm # For progress bars during indexing 

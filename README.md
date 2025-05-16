@@ -28,6 +28,9 @@ Ideal for:
 | [`transcribe_audio/`](./transcribe_audio) | Transcribe audio using Whisper |
 | [`search_local_media/`](./search_local_media) | CLIP-based text search across your media folder |
 
+<!-- scene_change_split.py	Introduces users to segmentation — essential for indexing and retrieval, ties into Mixpeek pipelines.
+4️⃣	caption_search.py	Text-based video retrieval is sticky. Very relatable problem for creators + brands. -->
+
 ---
 
 ## 🛠️ Getting Started
